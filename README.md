@@ -6,6 +6,18 @@ ayuda a centralizar la administracion dentro de una empresa en una sola aplicaci
 
 ---
 
+## Tabla de Contenido
+
+1. [Descripción](#descripción)
+2. [Tecnologías utilizadas](#tecnologías-utilizadas)
+3. [Instalación](#instalación)
+4. [Uso](#uso)
+5. [Imagenes del Sistema](#imagenes-del-sistema)
+6. [Contribuciones](#contribuciones)
+7. [Licencia](#licencia)
+8. [Contacto](#contacto)
+
+
 ## Características
 - Agregar, Actualizar, Eliminar, ver todo, buscar por cedula de clientes
 - Agregar, Actualizar, Eliminar, ver todo, buscar por cedula de productos
@@ -20,31 +32,12 @@ ayuda a centralizar la administracion dentro de una empresa en una sola aplicaci
 
 ## Tecnologías utilizadas
 
-- **.NET Framework**  
-  - Proporciona el entorno de ejecución y bibliotecas necesarias para desarrollar aplicaciones en Visual Basic.  
-  - Versión utilizada: .NET Framework 4.8 (o superior).
-
-- **Visual Basic (VB.NET)**  
-  - Lenguaje de programación utilizado para la lógica y desarrollo del programa.  
-  - Diseñado para aplicaciones de Windows con una interfaz gráfica.
-
-- **Visual Studio**  
-  - Entorno de desarrollo integrado (IDE) para escribir, depurar y compilar aplicaciones .NET.  
-  - Versión utilizada: Visual Studio 2022.
-
-- **XAMPP**  
-  - Servidor local que incluye Apache, MySQL, PHP y Perl para probar y ejecutar aplicaciones web.  
-  - Utilizado para gestionar y probar la base de datos MySQL de forma local.  
-  - Versión utilizada: XAMPP 8.2.0.
-
-- **MySQL Server**  
-  - Sistema de gestión de bases de datos utilizado para almacenar los datos de la aplicación.  
-  - Compatible con Visual Studio y Visual Basic para conectar y realizar operaciones CRUD.  
-  - Versión utilizada: MySQL Server 8.0.
-
-- **Conector MySQL para .NET (MySQL Connector/NET)**  
-  - Librería necesaria para establecer la conexión entre Visual Basic y MySQL.  
-  - Versión utilizada: MySQL Connector/NET 8.0.
+- **.NET Framework**: .NET Framework 4.8 (o superior)
+- **Visual Basic (VB.NET)**
+- **Visual Studio**: Visual Studio 2022
+- **XAMPP**: XAMPP 8.2.0
+- **MySQL Server**: MySQL Server 8.0
+- **Conector MySQL para .NET (MySQL Connector/NET)**: MySQL Connector/NET 8.0
 
 ---
 
@@ -58,7 +51,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 2. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/hiryonz/administracion_productos-.NET.git
 
 
 ## Uso
