@@ -62,13 +62,30 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 
 ## Uso
-1. copia el codigo sql dentro de sql_query.sql
-2. inicia Xampp o cualquier otra aplicacion de servidor
-3. crea la base de datos
-4. ejecuta el codigo sql proporcionado
-5. cambia el nombre de la base de datos dentro del archivo BD.vb
-> [!IMPORTANT]
-> ![arreglar el nombre](https://github.com/hiryonz/administracion_productos-.NET/blob/4d15324ea390786069faabfafae1fa9e170da873/img_readme/changeDatabaName.png)
+
+Sigue estos pasos para utilizar el proyecto:
+
+1. Abre el archivo `sql_query.sql` y copia el código SQL.
+2. Inicia XAMPP o cualquier otro servidor local.
+   - Asegúrate de que Apache y MySQL estén activos.
+3. Abre phpMyAdmin (o cualquier cliente SQL) y crea una nueva base de datos.
+4. Ejecuta el código SQL proporcionado dentro de la nueva base de datos.
+5. Abre el archivo `BD.vb` en tu editor de código y actualiza el nombre de la base de datos según la que creaste en el paso anterior.
+   > **Nota:** Si no actualizas el nombre, el proyecto no podrá conectarse correctamente a la base de datos.
+6. Compila y ejecuta el proyecto desde Visual Studio.
+
+### Cambiar el nombre de la base de datos
+
+Actualiza el nombre de la base de datos en el archivo `BD.vb`. Sigue esta guía visual para encontrar dónde realizar el cambio:
+
+![Cambiar el nombre de la base de datos](https://github.com/hiryonz/administracion_productos-.NET/blob/4d15324ea390786069faabfafae1fa9e170da873/img_readme/changeDatabaName.png)
+
+### Ejecución del proyecto
+
+- Una vez configurado, abre el archivo `MainForm.vb` desde Visual Studio y ejecuta el proyecto.  
+- Accede a la funcionalidad principal desde el menú de la aplicación.
+
+
 ---
 
 
@@ -76,6 +93,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 ![administracion de clientes](https://github.com/hiryonz/administracion_productos-.NET/blob/4d15324ea390786069faabfafae1fa9e170da873/img_readme/clientes.png)
 
 ![administracion de productos](https://github.com/hiryonz/administracion_productos-.NET/blob/4d15324ea390786069faabfafae1fa9e170da873/img_readme/productos.png)
+
 ---
 
 ## Contribuciones
