@@ -122,7 +122,7 @@ este proyecto fue desarrollado por Javier Chong.
 Si tienes preguntas, sugerencias o necesitas ayuda, no dudes en ponerte en contacto:
 
 - **Nombre:** [Javier Chong]
-- **Email:** [hiryonzl@example.com](mailto:hiryonz024@gmail.com)
+- **Email:** [hiryonz024@gmail.com](mailto:hiryonz024@gmail.com)
 - **GitHub:** [@hiryonz](https://github.com/hiryonz)
 - **LinkedIn**: [linkedin.com/javier-chong](https://www.linkedin.com/in/javier-chong-98a73b277/)
 
