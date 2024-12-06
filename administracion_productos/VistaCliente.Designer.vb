@@ -56,7 +56,7 @@ Partial Class VistaCliente
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(627, 38)
+        Label1.Location = New Point(606, 38)
         Label1.Margin = New Padding(4, 0, 4, 0)
         Label1.Name = "Label1"
         Label1.Size = New Size(351, 38)
@@ -202,7 +202,7 @@ Partial Class VistaCliente
         ' 
         ' VistaCliente
         ' 
-        AutoScaleDimensions = New SizeF(10.0F, 25.0F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(1505, 793)
         Controls.Add(GroupBox1)

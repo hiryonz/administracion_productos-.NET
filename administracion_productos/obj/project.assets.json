@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hiryo\\source\\repos\\administracion_productos\\administracion_productos\\administracion_productos.vbproj",
+      "projectUniqueName": "C:\\Users\\hiryo\\Source\\Repos\\administracion_productos-.NET2\\administracion_productos\\administracion_productos.vbproj",
       "projectName": "administracion_productos",
-      "projectPath": "C:\\Users\\hiryo\\source\\repos\\administracion_productos\\administracion_productos\\administracion_productos.vbproj",
+      "projectPath": "C:\\Users\\hiryo\\Source\\Repos\\administracion_productos-.NET2\\administracion_productos\\administracion_productos.vbproj",
       "packagesPath": "C:\\Users\\hiryo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hiryo\\source\\repos\\administracion_productos\\administracion_productos\\obj\\",
+      "outputPath": "C:\\Users\\hiryo\\Source\\Repos\\administracion_productos-.NET2\\administracion_productos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

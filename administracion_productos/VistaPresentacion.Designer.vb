@@ -34,10 +34,10 @@ Partial Class VistaPresentacion
         ' 
         Label1.AutoSize = True
         Label1.BorderStyle = BorderStyle.FixedSingle
-        Label1.Font = New Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(206, 121)
+        Label1.Font = New Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label1.Location = New Point(305, 31)
         Label1.Name = "Label1"
-        Label1.Size = New Size(1145, 522)
+        Label1.Size = New Size(964, 650)
         Label1.TabIndex = 0
         Label1.Text = resources.GetString("Label1.Text")
         Label1.TextAlign = ContentAlignment.MiddleCenter
@@ -47,7 +47,7 @@ Partial Class VistaPresentacion
         PictureBox1.Image = My.Resources.Resources.upt_logo
         PictureBox1.Location = New Point(27, 34)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(160, 151)
+        PictureBox1.Size = New Size(251, 232)
         PictureBox1.SizeMode = PictureBoxSizeMode.Zoom
         PictureBox1.TabIndex = 1
         PictureBox1.TabStop = False
@@ -55,9 +55,9 @@ Partial Class VistaPresentacion
         ' PictureBox2
         ' 
         PictureBox2.Image = My.Resources.Resources.fisc_logo
-        PictureBox2.Location = New Point(1371, 34)
+        PictureBox2.Location = New Point(1300, 34)
         PictureBox2.Name = "PictureBox2"
-        PictureBox2.Size = New Size(160, 151)
+        PictureBox2.Size = New Size(231, 202)
         PictureBox2.SizeMode = PictureBoxSizeMode.Zoom
         PictureBox2.TabIndex = 0
         PictureBox2.TabStop = False
@@ -66,7 +66,7 @@ Partial Class VistaPresentacion
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1543, 666)
+        ClientSize = New Size(1543, 690)
         Controls.Add(PictureBox2)
         Controls.Add(PictureBox1)
         Controls.Add(Label1)
