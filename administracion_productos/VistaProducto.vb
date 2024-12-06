@@ -122,18 +122,9 @@
                 }
                 DataGridViewProducto.Rows.Add(row) ' Agregar la fila al DataGridView
 
-                ' Habilitar botones de modificar y eliminar
-                BtnModificarProducto.Enabled = True
-                BtnEliminarProducto.Enabled = True
-                BtnBuscarProducto.Enabled = False ' Deshabilitar botón de buscar
-                BtnAdiccionarProducto.Enabled = False ' Deshabilitar botón de agregar
             Else
                 MessageBox.Show("Producto no encontrado.")
-                ' Habilitar botones de agregar y limpiar
-                BtnAdiccionarProducto.Enabled = True
-                BtnLimpiarProducto.Enabled = True
-                BtnModificarProducto.Enabled = False
-                BtnEliminarProducto.Enabled = False
+
             End If
         End If
         ' Limpiar el TextBox de búsqueda

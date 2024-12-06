@@ -70,18 +70,9 @@ Public Class VistaCliente
             }
             DataGridViewCliente.Rows.Add(row) ' Agregar la fila al DataGridView
 
-            ' Habilitar botones de modificar y eliminar
-            BtnModificarCliente.Enabled = True
-            BtnEliminarCliente.Enabled = True
-            BtnBuscarCliente.Enabled = False ' Deshabilitar botón de buscar
-            BtnAdiccionarCliente.Enabled = False ' Deshabilitar botón de agregar
+
         Else
             MessageBox.Show("Cliente no encontrado.")
-            ' Habilitar botones de agregar y limpiar
-            BtnAdiccionarCliente.Enabled = True
-            BtnLimpiarCliente.Enabled = True
-            BtnModificarCliente.Enabled = False
-            BtnEliminarCliente.Enabled = False
         End If
 
         ' Limpiar el TextBox de búsqueda

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = administracion_productos
-build_property.ProjectDir = C:\Users\hiryo\source\repos\administracion_productos-.NET2\administracion_productos\
+build_property.ProjectDir = C:\Users\hiryo\source\repos\administracion_productos-.NET3\administracion_productos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
