@@ -53,7 +53,7 @@
     ' Método para eliminar un cliente por Id
     Public Sub EliminarCliente()
         Dim parameters As New Dictionary(Of String, Object) From {
-            {"@p_Id", Id} ' Usa el Id como clave primaria
+            {"@p_Cedula", Cedula} ' Usa el Id como clave primaria
         }
         db.ExecuteProcedureWithParams("sp_Cliente_Eliminar", parameters)
     End Sub

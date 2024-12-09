@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("administracion_productos"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0941db85abf62b109db87854ee139331dddf4f39"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795b56579549dbc055683dee68be6c7639026740"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("administracion_productos"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("administracion_productos"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
